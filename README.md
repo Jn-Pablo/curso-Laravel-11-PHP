@@ -12,17 +12,14 @@ Instalar as depedências do PHP
 Composer Install
 ```
 
-
-
-
-
 ## Sequência para criar um projeto Laravel
 Criando um projeto Laravel local :
 composer create-project laravel/laravel "nome-da-pasta-do-seu-projeto" 
 ou  "." para criar no diretório que ja está
 
-Iniciar o projeto Laravel:
-php artisan serve
+I
+## Iniciar o projeto Laravel
+php artisan serve 
 ```
 
 Acessar o conteúdo padrão do Laravel:
