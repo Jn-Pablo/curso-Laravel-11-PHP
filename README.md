@@ -48,7 +48,7 @@
 
 ---
 
-## 📁 Criando um novo projeto Laravel do zero
+##  Criando um novo projeto Laravel do zero
 
 Para criar um novo projeto Laravel localmente:
 
@@ -64,12 +64,12 @@ composer create-project laravel/laravel .
 
 ---
 
-## 🧪 Testes
+##  Testes
 
 (Se houver testes no projeto, você pode adicionar aqui: `php artisan test` ou `phpunit`.)
 
 ---
 
-## 📄 Licença
+##  Licença
 
 Este projeto está sob a licença MIT.
