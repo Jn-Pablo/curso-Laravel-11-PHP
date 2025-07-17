@@ -1,14 +1,14 @@
 
-# 📦 Projeto Laravel
+#  Projeto Laravel
 
-## ✅ Requisitos
+## Requisitos
 
 - PHP 8.2 ou superior  
 - Composer instalado na máquina
 
 ---
 
-## 🚀 Como rodar o projeto localmente
+## Como rodar o projeto localmente
 
 1. Clone o repositório:
    ```bash
